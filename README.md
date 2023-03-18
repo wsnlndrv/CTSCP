@@ -1,2 +1,5 @@
 # CTSCP
-Control de teclado secundario con python en linux
+Control de teclado secundario con python en linux.
+
+Dependencias:
+   evdev
